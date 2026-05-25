@@ -19,9 +19,13 @@ Pick your characters and difficulty
 Hit Start and watch them fight
 If it doesn't work: Usually it's just the driver not installing right. The setup should handle it, but if not, run setup_public.ps1 manually or grab ViGEmBus from GitHub here: https://github.com/nefarius/ViGEmBus
 
+Safety: The application is completely safe - here's the VirusTotal scan for verification: [https://www.virustotal.com/gui/file/26308045e2fe1ddeb503ae52e4f006d99529bcf7d45f9acf0148fe4408b684a5?nocache=1]
+
+Check out this video to see a visual preview: [UPDATE]
+
 CREDITS: @jnbndz
 Discord: jnbndz (if you have questions or find bugs or any other inquiries)
 
 Special moves and combos data is from MKSecrets, so credits to them for that.
 
-Download: [UPDATE]
+Download: [https://github.com/jnbndzz/Kombat-9-Autopilot]
