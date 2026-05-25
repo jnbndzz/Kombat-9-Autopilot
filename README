@@ -1,0 +1,27 @@
+[RELEASE] Kombat9 Autopilot - Watch AI fight AI in MK9
+
+Been working on this for a while and finally got it working properly. It's basically a tool that lets you watch AI fight AI in Mortal Kombat Komplete Edition AKA Mortal Kombat 9.
+
+What it does: The app watches the game screen and controls both players at once using a virtual controller. It can see where everyone is, their health, all that stuff, and then decides what moves to do. It actually knows the real special moves and combos for every character too.
+
+Features:
+
+Full roster support
+5 difficulty levels (from beginner to expert)
+AI does combos, special moves, X-rays
+How to get it running: Just run the installer. It'll set up the virtual controller driver automatically (you'll need admin for that). Also might need to restart your PC after.
+
+Using it:
+
+Run MKKE once first (so the game makes its config folder)
+Open the app
+Pick your characters and difficulty
+Hit Start and watch them fight
+If it doesn't work: Usually it's just the driver not installing right. The setup should handle it, but if not, run setup_public.ps1 manually or grab ViGEmBus from GitHub here: https://github.com/nefarius/ViGEmBus
+
+CREDITS: @jnbndz
+Discord: jnbndz (if you have questions or find bugs or any other inquiries)
+
+Special moves and combos data is from MKSecrets, so credits to them for that.
+
+Download: [UPDATE]
